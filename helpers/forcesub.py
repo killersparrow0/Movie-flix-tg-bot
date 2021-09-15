@@ -1,4 +1,4 @@
-# ©Naviya2
+# 
 
 import asyncio
 import info
@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 
 async def ForceSub(bot: Client, event: Message):
     """
-    Custom Pyrogram Based Telegram Bot's Force Subscribe Function by @supunma.
+    Custom Pyrogram Based Telegram Bot's Force Subscribe Function by @milas.
     If User is not Joined Force Sub Channel Bot to Send a Message & ask him to Join First.
     
     :param bot: Pass Client.
