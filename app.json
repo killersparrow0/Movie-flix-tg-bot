@@ -1,7 +1,7 @@
 {
     "name": "Inline search bot  Search Bot",
     "description": "When you going to send file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/6b258ec64297754f15bf4.jpg",
+    "logo": "https://telegra.ph/file/2b341c1c62eb62f124d68.jpg",
     "keywords": [
       "telegram",
       "best",
@@ -13,8 +13,8 @@
       "index",
       "inline"
     ],
-    "website": "https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA",
-    "repository": "https://github.com/Naviya2/LeoMediaSearchBot",
+    "website": "https://github.com/killersparrow0/Movie-flix-tg-bot",
+    "repository": "https://github.com/killersparrow0/Movie-flix-tg-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -76,12 +76,12 @@
         },
         "START_MSG": {
             "description": "A Massege for view at start. If you want to change it you can change it here",
-            "value": "**Hi {}👋\n\nI'm Mod app  Bot**\n\nYou can start searching by the 'Search Mod app  🔎' button below 😊",
+            "value": "**Hi {}👋\n\nI'm MOVIE FLIX Bot**\n\nYou can start searching by the 'Search Movies & Series  🔎' button below 😊",
             "required": false
         },
         "SHARE_BUTTON_TEXT": {
             "description": "A Massege for add to share button. If you want to change it you can change it here",
-            "value": "**Mod app  Search Bot 🇱🇰**\n\n`Here you can find any Mod app  by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @slbotzone 🇱🇰\nUpdates Channel: @sl_bot_zone 🇱🇰\nDevelopper : @supunma 🇱🇰",
+            "value": "**Movie & Series Search Bot**\n\n`Here you can find any Movies & series by searching its name 😊´\n\nBot : {username} 🤖\nSupport Group : @movies_songs_tj \nUpdates Channel: @songs_movies \nDevelopper : @tom_jerry_m ",
             "required": false
         },
         "USE_CAPTION_FILTER": {
