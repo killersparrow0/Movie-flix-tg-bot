@@ -80,7 +80,7 @@ def get_reply_markup(username, query):
 
         [
            InlineKeyboardButton('Help Group 🔔 ', url='https://t.me/movies_songs_tj'),
-           InlineKeyboardButton('Donate 💰 ', url='1KXxS94uWJVPhZVbdZPz76EwKJB4XXhk8K'),
+           InlineKeyboardButton('Developed👨🏼‍💻 ', url='https://t.me/tom_jerry_m'),
         ],
     ]
     return InlineKeyboardMarkup(buttons)
