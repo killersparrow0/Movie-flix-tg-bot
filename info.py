@@ -60,8 +60,8 @@ Here you can find any media file by searching its name 😊
 
 Bot : {username} 🤖
 Support Group : @movies_songs_tj
-Updates Channel: @ updatelater
-Developper : @ update later
+Updates Channel: @songs_movies
+Developper : @tom_jerry_m
 """
 
 START_MSG = environ.get('START_MSG', default_start_massege)
